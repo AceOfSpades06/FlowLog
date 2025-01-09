@@ -17,7 +17,7 @@ and maps each row to a Port/Protocal and tag based on a [lookup table](./lookupT
 ## Usage
 
 ```bash
-cd /path/to/Illumio
+cd /path/to/FlowLog
 # you can skip the next line if you have already created the out directory
 javac -d out/production/Illumio src/*.java src/controller/*.java src/model/*.java
 # run this command to execute the program
